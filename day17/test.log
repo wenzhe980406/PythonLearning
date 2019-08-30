@@ -1,0 +1,5 @@
+2019-08-06 16:51:22 root:DEBUG:this is a debug message
+2019-08-06 16:51:22 root:INFO:this is a info message
+2019-08-06 16:51:22 root:WARNING:this is a debug message
+2019-08-06 16:51:22 root:ERROR:this is a debug message
+2019-08-06 16:51:22 root:CRITICAL:this is a debug message
